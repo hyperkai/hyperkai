@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-    "stargazers_count": 0,
-
 
 <!--
 **hyperkai/hyperkai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
