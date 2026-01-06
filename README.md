@@ -17,6 +17,6 @@ Hi 👋 My name is Hyper Kai
 
 <b>My GitHub Stats</b>
 
-[![Hyper Kai's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyperkai&theme=merko)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Hyper Kai's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyperkai&theme=gruvbox)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=hyperkai&theme=merko)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=hyperkai&theme=gruvbox)](https://github.com/pranesh-2005/github-readme-stats-fast)
