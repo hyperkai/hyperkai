@@ -17,4 +17,4 @@ Hi 👋 My name is Hyper Kai
 
 <b>My GitHub Stats</b>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=hyperkai)](https://github.com/anuraghazra/github-readme-stats)
+[![Hyper Kai's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=hyperkai)](https://github.com/pranesh-2005/github-readme-stats-fast)
