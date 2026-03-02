@@ -1,5 +1,5 @@
 *Notes to myself:
-- As soon as forking a repo, prohibit anyone including the owner to edit **main** or **master** branch:
+- As soon as forking a repo, prohibit anyone including the owner to edit **main** or **master** branch to make it clean:
     1. **Settings**
     2. **Branches**
     3. **Add branch ruleset**
