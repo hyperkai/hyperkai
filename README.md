@@ -3,7 +3,7 @@
     1. **Settings**
     2. **Branches**
     3. **Add branch ruleset**
-    4. **Ruleset Name** as `main or master edit prohibition`
+    4. **Ruleset Name** as `main-edit-prohibition` or `master-edit-prohibition`
     5. **Enforcement status** as `Active`
     6. **Add target** as `main` or `master` from **Include by pattern**
     7. Check **Restrict creations** and **Restrict updates** in addition to the default checked items.
